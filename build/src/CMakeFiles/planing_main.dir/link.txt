@@ -1,0 +1,3 @@
+C:\cmake\bin\cmake.exe -E rm -f CMakeFiles\planing_main.dir/objects.a
+D:\mingw64\x86_64\mingw64\bin\ar.exe qc CMakeFiles\planing_main.dir/objects.a @CMakeFiles\planing_main.dir\objects1.rsp
+D:\mingw64\x86_64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\planing_main.dir/objects.a -Wl,--no-whole-archive -o E:\c_learn\cmake_multi_filed_multi_cmake_learn\bin\planing_main.exe -Wl,--out-implib,libplaning_main.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\planing_main.dir\linkLibs.rsp

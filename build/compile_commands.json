@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/c_learn/cmake_multi_files_thirt_party/build/src",
+  "command": "D:\\mingw64\\x86_64\\mingw64\\bin\\g++.exe  @CMakeFiles/planning_main.dir/includes_CXX.rsp -g -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c E:\\c_learn\\cmake_multi_files_thirt_party\\src\\planning_main.cpp",
+  "file": "E:/c_learn/cmake_multi_files_thirt_party/src/planning_main.cpp",
+  "output": "src/CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "E:/c_learn/cmake_multi_files_thirt_party/build/src/pnc_map",
+  "command": "D:\\mingw64\\x86_64\\mingw64\\bin\\g++.exe -Dpnc_map_EXPORTS  -g -o CMakeFiles\\pnc_map.dir\\pnc_map.cpp.obj -c E:\\c_learn\\cmake_multi_files_thirt_party\\src\\pnc_map\\pnc_map.cpp",
+  "file": "E:/c_learn/cmake_multi_files_thirt_party/src/pnc_map/pnc_map.cpp",
+  "output": "src/pnc_map/CMakeFiles/pnc_map.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "E:/c_learn/cmake_multi_files_thirt_party/build/src/process",
+  "command": "D:\\mingw64\\x86_64\\mingw64\\bin\\g++.exe -Dprocess_EXPORTS @CMakeFiles/process.dir/includes_CXX.rsp -g -o CMakeFiles\\process.dir\\process.cpp.obj -c E:\\c_learn\\cmake_multi_files_thirt_party\\src\\process\\process.cpp",
+  "file": "E:/c_learn/cmake_multi_files_thirt_party/src/process/process.cpp",
+  "output": "src/process/CMakeFiles/process.dir/process.cpp.obj"
+},
+{
+  "directory": "E:/c_learn/cmake_multi_files_thirt_party/build/src/show_result",
+  "command": "D:\\mingw64\\x86_64\\mingw64\\bin\\g++.exe -Dshow_result_EXPORTS @CMakeFiles/show_result.dir/includes_CXX.rsp -g -o CMakeFiles\\show_result.dir\\show_result.cpp.obj -c E:\\c_learn\\cmake_multi_files_thirt_party\\src\\show_result\\show_result.cpp",
+  "file": "E:/c_learn/cmake_multi_files_thirt_party/src/show_result/show_result.cpp",
+  "output": "src/show_result/CMakeFiles/show_result.dir/show_result.cpp.obj"
+}
+]

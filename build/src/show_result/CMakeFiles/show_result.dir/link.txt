@@ -1,0 +1,3 @@
+C:\cmake\bin\cmake.exe -E rm -f CMakeFiles\show_result.dir/objects.a
+D:\mingw64\x86_64\mingw64\bin\ar.exe qc CMakeFiles\show_result.dir/objects.a @CMakeFiles\show_result.dir\objects1.rsp
+D:\mingw64\x86_64\mingw64\bin\g++.exe -g -shared -o E:\c_learn\cmake_multi_files_thirt_party\bin\libshow_result.dll -Wl,--out-implib,libshow_result.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\show_result.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\show_result.dir\linkLibs.rsp
